@@ -101,7 +101,6 @@ switch:
     pin:
       number: 25
       inverted: true
-      ignore_strapping_warning: true
     name: "Relay 2"
 
 # ==========================
